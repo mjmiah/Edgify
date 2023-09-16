@@ -1,4 +1,4 @@
-![image](https://github.com/mjmiah/Edgify/assets/65255238/dbf2286f-c32e-4837-9b61-407c9d2ed5df)# Edgify
+# Edgify
 An edge detector written in MATLAB. This uses the Laplacian of Gaussian filter combined with zero crossing to produce edge images from jpg files.
 # How to use
 * Move the images you want to edge detect into the input folder. Remember that these **input files must be of the .jpg format**. The input and output folders already contain samples I edge detected which you can delete if you wish to do so.
