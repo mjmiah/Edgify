@@ -1,4 +1,5 @@
 function edgify = edgify() % function by mjmiah
+disp('Processing input...');
 input_folder = 'input';
 input_files = dir([input_folder '/*.jpg']); % input directory
 output_folder = 'output';
